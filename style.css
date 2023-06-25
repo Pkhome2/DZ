@@ -1,0 +1,11 @@
+h1 {
+    color: #7d36b8;
+}
+.h2class {
+    border: 5px solid greenyellow;
+    border-radius: 5px;
+    font-size: 30px;
+    background: #00aeff;
+    padding: 10px;
+
+}
